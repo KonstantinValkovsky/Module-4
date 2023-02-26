@@ -1,0 +1,15 @@
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\bin\Debug\net6.0\module4.3.7.exe
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\bin\Debug\net6.0\module4.3.7.deps.json
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\bin\Debug\net6.0\module4.3.7.runtimeconfig.json
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\bin\Debug\net6.0\module4.3.7.dll
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\bin\Debug\net6.0\module4.3.7.pdb
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\module4.3.7.csproj.AssemblyReference.cache
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\module4.3.7.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\module4.3.7.AssemblyInfoInputs.cache
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\module4.3.7.AssemblyInfo.cs
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\module4.3.7.csproj.CoreCompileInputs.cache
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\module4.3.7.dll
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\refint\module4.3.7.dll
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\module4.3.7.pdb
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\module4.3.7.genruntimeconfig.cache
+D:\skillfactory\репозитории\Module-4\Module4.1\module4.3.7\obj\Debug\net6.0\ref\module4.3.7.dll
