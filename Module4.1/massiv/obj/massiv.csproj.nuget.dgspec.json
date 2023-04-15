@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\skillfactory\\репозитории\\Module-4\\Module4.1\\massiv\\massiv.csproj": {}
+    "D:\\skillfactory\\module 4\\Module4.1\\massiv\\massiv.csproj": {}
   },
   "projects": {
-    "D:\\skillfactory\\репозитории\\Module-4\\Module4.1\\massiv\\massiv.csproj": {
+    "D:\\skillfactory\\module 4\\Module4.1\\massiv\\massiv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\skillfactory\\репозитории\\Module-4\\Module4.1\\massiv\\massiv.csproj",
+        "projectUniqueName": "D:\\skillfactory\\module 4\\Module4.1\\massiv\\massiv.csproj",
         "projectName": "massiv",
-        "projectPath": "D:\\skillfactory\\репозитории\\Module-4\\Module4.1\\massiv\\massiv.csproj",
-        "packagesPath": "C:\\Users\\Костя\\.nuget\\packages\\",
-        "outputPath": "D:\\skillfactory\\репозитории\\Module-4\\Module4.1\\massiv\\obj\\",
+        "projectPath": "D:\\skillfactory\\module 4\\Module4.1\\massiv\\massiv.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "D:\\skillfactory\\module 4\\Module4.1\\massiv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\vs2022\\2\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Костя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
