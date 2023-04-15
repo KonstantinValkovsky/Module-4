@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\skillfactory\\module 4\\Module4.1\\Module4.1.17\\Module4.1.17.csproj",
+      "projectUniqueName": "D:\\skillfactory\\module4\\Module4.1\\Module4.1.17\\Module4.1.17.csproj",
       "projectName": "Module4.1.17",
-      "projectPath": "D:\\skillfactory\\module 4\\Module4.1\\Module4.1.17\\Module4.1.17.csproj",
+      "projectPath": "D:\\skillfactory\\module4\\Module4.1\\Module4.1.17\\Module4.1.17.csproj",
       "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
-      "outputPath": "D:\\skillfactory\\module 4\\Module4.1\\Module4.1.17\\obj\\",
+      "outputPath": "D:\\skillfactory\\module4\\Module4.1\\Module4.1.17\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
