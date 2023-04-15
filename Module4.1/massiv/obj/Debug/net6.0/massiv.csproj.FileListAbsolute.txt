@@ -13,3 +13,18 @@ D:\skillfactory\репозитории\Module-4\Module4.1\massiv\obj\Debug\net6.
 D:\skillfactory\репозитории\Module-4\Module4.1\massiv\obj\Debug\net6.0\massiv.pdb
 D:\skillfactory\репозитории\Module-4\Module4.1\massiv\obj\Debug\net6.0\massiv.genruntimeconfig.cache
 D:\skillfactory\репозитории\Module-4\Module4.1\massiv\obj\Debug\net6.0\ref\massiv.dll
+D:\skillfactory\module 4\Module4.1\massiv\bin\Debug\net6.0\massiv.exe
+D:\skillfactory\module 4\Module4.1\massiv\bin\Debug\net6.0\massiv.deps.json
+D:\skillfactory\module 4\Module4.1\massiv\bin\Debug\net6.0\massiv.runtimeconfig.json
+D:\skillfactory\module 4\Module4.1\massiv\bin\Debug\net6.0\massiv.dll
+D:\skillfactory\module 4\Module4.1\massiv\bin\Debug\net6.0\massiv.pdb
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\massiv.csproj.AssemblyReference.cache
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\massiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\massiv.AssemblyInfoInputs.cache
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\massiv.AssemblyInfo.cs
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\massiv.csproj.CoreCompileInputs.cache
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\massiv.dll
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\refint\massiv.dll
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\massiv.pdb
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\massiv.genruntimeconfig.cache
+D:\skillfactory\module 4\Module4.1\massiv\obj\Debug\net6.0\ref\massiv.dll
